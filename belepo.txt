@@ -1,2 +1,2 @@
 git config - - global user.email"patakisandor2@gmail.com"
-git config - - global usre.name"sanyi1234"
+git config - - global user.name"sanyi1234"
